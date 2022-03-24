@@ -1,8 +1,10 @@
 # SISTEMA WEB PARA COMÉRCIO VAREJISTA (CRUD)
 
-<h2>Sumário</h2>
-
 <h3 align = "center">Projeto em Construção</h3>
+
+<h3>OBSERVAÇÕES</h3>
+<p>Para obter a interface do projeto com os Designs em CSS, necessário baixar o font-awesome(<a href = "https://fontawesome.com/docs/web/setup/host-yourself/webfonts">clique aqui</a>).Além deste, baixe o framework Materialize(<a href = "https://materializecss.com/">clique aqui</a>).Após isso, coloque-os na pasta static.
+</p>
 
 <h2 id = "sobre">Sobre</h2>
 <p align = "justify">
