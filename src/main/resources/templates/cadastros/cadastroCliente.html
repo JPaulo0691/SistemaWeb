@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org"
+	  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+	<meta charset="UTF-8">
+	<!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="materialize/css/materialize.min.css"  media="screen,projection"/>
+	
+    <!--Let browser know website is optimized for mobile-->
+    
+    <link href="fontawesome/css/all.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<title>Cadastramento de Clientes</title>
+</head>
+<body>
+	
+	<form action="" method="post" class = "container">
+		<h3>Cadastro de Clientes</h3>
+		
+		Nome: <input type = "text" value= "" name = "nome">
+		Bairro:<input type = "text" value= "" name = "bairro">
+		Telefone:<input type = "text" value= "" name = "telefone">
+		Endereço:<input type = "text" value= "" name = "endereco">
+		
+		<button type = "submit" class="waves-effect waves-light btn">Cadastrar</button>
+		<h4><a href="/index" class="waves-effect waves-light btn">Retorne para a página inicial</a></h4>
+	</form>
+</body>
+</html>
